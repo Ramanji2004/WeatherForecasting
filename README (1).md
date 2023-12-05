@@ -1,1 +1,1 @@
-# CodeClauseInternship_WeatherForecasting
+WeatherForecasting
